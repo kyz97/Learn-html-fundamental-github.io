@@ -1,4 +1,4 @@
- # 👋 Hai, aku Kay!
+  # 👋 Hai, aku Kay!
 
 Aku seorang **mahasiswa desainer** yang senang mengeksplorasi dunia kreativitas dan visual.  
 Aku suka belajar hal baru, terutama yang berhubungan dengan desain, estetika, dan pengalaman pengguna.
