@@ -1,4 +1,4 @@
-# 👋 Hai, aku Kay!
+ # 👋 Hai, aku Kay!
 
 Aku seorang **mahasiswa desainer** yang senang mengeksplorasi dunia kreativitas dan visual.  
 Aku suka belajar hal baru, terutama yang berhubungan dengan desain, estetika, dan pengalaman pengguna.
@@ -50,6 +50,6 @@ Aku suka belajar hal baru, terutama yang berhubungan dengan desain, estetika, da
 ---
 
 <p align="center">
-  “Ga perlu dilihat untuk jadi Hebat.” 🌸  
-  <br>© 2025 Kay | Dibuat dengan 💙 dan ☕
+  “moal baleg.”   
+  <br>© 2025 Kay 
 </p>
