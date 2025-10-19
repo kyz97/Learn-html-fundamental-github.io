@@ -5,23 +5,38 @@ Aku suka belajar hal baru, terutama yang berhubungan dengan desain, estetika, da
 
 ---
 
+## 🎯 Rencana & Mimpi
+
+- 💡 Menjadi desainer web profesional  
+- 🎨 Menguasai React dan animasi web modern  
+- 📚 Membuat platform belajar interaktif untuk pelajar  
+- 🔥 Menggabungkan logika, seni, dan teknologi dalam satu karya yang membara  
+
+> “Gapapa ketinggalan start, tapi harus sampai finish!” — 🌙
+
+---
+
 ## 🎨 Tentang Aku
-- 📚 Saat ini masih menempuh pendidikan sebagai mahasiswa.
-- 💡 Tertarik pada bidang desain grafis, UI/UX, dan branding visual.
-- 🚀 Selalu bersemangat untuk berkolaborasi dalam proyek kreatif.
+
+- 📚 Saat ini masih menempuh pendidikan sebagai mahasiswa  
+- 💡 Tertarik pada bidang desain grafis, UI/UX, dan branding visual  
+- 🚀 Selalu bersemangat untuk berkolaborasi dalam proyek kreatif  
 
 ---
 
-## 📫 Hubungi Aku
-Kamu bisa terhubung denganku lewat:
-- ✉️ Email: [email kamu di sini]  
-- 🐙 GitHub: [github kamu di sini]  
-- 🎵 TikTok: [tiktok kamu di sini]  
-- 🕊️ X (Twitter): [x kamu di sini]  
-- 📸 Instagram: [instagram kamu di sini]
+## 🤝 Hubungi Aku
+
+<p align="center">
+  <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://github.com/username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://tiktok.com/@username"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
+  <a href="https://x.com/username"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+</p>
 
 ---
 
-> “Desain bukan hanya tentang tampilan, tapi juga tentang bagaimana sesuatu bekerja dan dirasakan.”
-
-Terima kasih sudah mampir! 🌟
+<p align="center">
+  “Ga perlu dilihat untuk jadi Hebat.” 🌸  
+  <br>© 2025 Kay | Dibuat dengan 💙 dan ☕
+</p>
