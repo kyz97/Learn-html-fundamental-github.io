@@ -39,7 +39,7 @@ Aku suka belajar hal baru, terutama yang berhubungan dengan desain, estetika, da
   <a href="https://tiktok.com/@username">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
   </a>
-  <a href="https://x.com/username">
+  <a href="https://x.com/ky">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   <a href="https://discord.com/users/username">
